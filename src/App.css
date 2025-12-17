@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 90%;
+  padding: 12px;
+  font-size: 14px;
+  resize: none;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
