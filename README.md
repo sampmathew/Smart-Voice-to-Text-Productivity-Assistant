@@ -38,7 +38,7 @@ Follow these steps to run VerbaFlow on your local machine.
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/verbaflow.git
+git clone https://github.com/sampmathew/VerbaFlow-Agentic-AI-Voice-Assistant
 cd verbaflow
 
 ```
